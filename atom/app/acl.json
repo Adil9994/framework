@@ -1,0 +1,22 @@
+{
+  "Admin" : {
+    "denied" : {},
+    "Admin" : ["*"],
+    "Contacts" : ["*"],
+    "Albums" : ["*"],
+    "Genre" : ["*"],
+    "Artists" : ["*"]
+  },
+  "Guest" : {
+    "denied" : {},
+    "Register" : ["login","register"],
+    "Restricted" : ["*"]
+  },
+  "LoggedIn" : {
+    "denied" : {
+      "Register" : ["login","register"]
+    },
+    "Admin" : ["content"],
+    "Register" : ["logout"]
+  }
+}

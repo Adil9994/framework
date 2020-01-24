@@ -1,0 +1,12 @@
+{
+    "name": "dail/atom",
+    "authors": [
+        {
+            "name": "Adil Ausagit",
+            "email": "6kdoter@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}

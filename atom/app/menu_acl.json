@@ -1,0 +1,24 @@
+{
+  "Contacts" : {
+    "My contacts" : "contacts",
+    "Add Contact" : "contacts/add"
+  },
+  "Albums" : {
+    "My albums" : "albums",
+    "Add album" : "albums/addAlbum"
+  },
+  "Genre" : {
+    "My genres" : "genre",
+    "Add genre" : "genre/addGenre"
+  },
+  "Artists" : {
+    "My artists" : "artists",
+    "Add artist" : "artists/addArtist"
+  },
+  "View blog" : "admin/content",
+  "Admin" : {
+    "Blog" : "admin/blog"
+  },
+  "Login" : "register/login",
+  "Logout" : "register/logout"
+}
